@@ -1,5 +1,5 @@
 # Welcome to My-Verse!!
-Hi! I am Mayank Kumar. I am a masters student at University of Washington Seattle. I am passionate about **AI, Computer Vision and Machine Learning**. Before University of Washington, I worked for four years in automotive industry. I have significant experience in **system engineering, product development, HMI development and product management**. I beriefly worked as co-founder for an ed-tech start-up which never saw the launch but experience was amazing.
+Hi! I am Mayank Kumar. Currently, master's student at the University of Washington(UW) Seattle with an expected graduation date of June 2023. I have experience in high-quality research in Computer Vision, Multimodal Machine Learning, and Data-centric AI. I am a research assistant with Prof. Ranjay Krishna at UW CSE, researching ways to improve the representation power of deep neural networks in the multimodal setting. Before University of Washington, I worked for four years in automotive industry. I have significant experience in **system engineering, product development, HMI development and product management**. I beriefly worked as co-founder for an ed-tech start-up which never saw the launch but experience was amazing.
 
 My story is cliched south-asian story where a guy from a distant village in India has big dreams. Story is cliched but experiences have shaped me as a person. My journey from village in India to USA comes with lots of mistakes, learning and increasing openess to accept any challenge. I share understanding from areas like, technology, philosphy, user experience, and economics. I believe that we must be aware of our past while making decisions for the future. why so? because it will prevent you from repeating the mistakes that ancestors had commited. That is why I keep an eye open to learn more about history of mankind. 
 
@@ -7,9 +7,9 @@ My story is cliched south-asian story where a guy from a distant village in Indi
 
 - Words that define me: **Curious, Anlaytical, Generalist, Empathetic**
 
-- **Interests:** Robotics, Autonomy, Artificial Intelligence, Computer Vision, Machine Intelligence
+- **Interests:** Computer Vision, Machine Learning, Multimodal AI, Robotics, Autonomy 
 
-- **Programming Skills:** Python, PyTorch, Tensorflow, Scikit-learn, Pandas, OpenCV, R, C++, embedded C
+- **Programming Skills:** Python, PyTorch, Scikit-learn, Pandas, OpenCV, R, C#, C++, embedded C
 
 - **Automotive**: CAN, CAPL
 
